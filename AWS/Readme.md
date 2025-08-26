@@ -1,3 +1,1 @@
-This is Shashank repo, please clone this repo by usimng this command
-
-git
+This is Shashank repo, im king
